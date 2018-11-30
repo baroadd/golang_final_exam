@@ -1,0 +1,2 @@
+server="mongodb://baroad:Bb8038372@ds121814.mlab.com:21814/bank_db"
+database="bank_db"
